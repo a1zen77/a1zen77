@@ -16,7 +16,7 @@ I build full-stack web applications and enjoy experimenting with machine learnin
 👯 &nbsp;I'm looking to collaborate on **ML pipelines, Full Stack Applications**  
 💬 &nbsp;Ask me about **Machine Learning, Backend Systems**  
 😄 &nbsp;Pronouns: **He/Him**  
-⚡ &nbsp;Fun fact: **Chess Enthusiast - London + King's Indian/Karo-Cann - (1500 elo) **
+⚡ &nbsp;Fun fact: **Chess Enthusiast - London + King's Indian/Karo-Cann - (1500 elo)**
 
 ### 🛠️ Tech Stack
 
